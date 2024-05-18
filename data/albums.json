@@ -1,5 +1,75 @@
 [
   {
+    "title": "Aquemini ",
+    "artist": "Outkast",
+    "url": "https://music.apple.com/de/album/aquemini/266365274?l=en-GB",
+    "position": "41",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/d1/dc/09d1dccf-7ff4-02b6-9613-942a6d140452/730082605328.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "Control",
+    "artist": "Janet Jackson",
+    "url": "https://music.apple.com/de/album/control/1440831636?l=en-GB",
+    "position": "42",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ed/b0/20/edb02000-b77f-22f4-6b7f-c46f62d4517c/00602547592361.rgb.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "Remain in Light ",
+    "artist": "Talking Heads",
+    "url": "https://music.apple.com/de/album/remain-in-light/300948043?l=en-GB",
+    "position": "43",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music/87/5f/5b/mzi.zzquknhm.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "Innervisions ",
+    "artist": "Stevie Wonder",
+    "url": "https://music.apple.com/de/album/innervisions/1440806790?l=en-GB",
+    "position": "44",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ff/c2/5f/ffc25f04-cb3b-b56e-dd28-8b77ae63e613/00602537070824.rgb.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "Homogenic ",
+    "artist": "Björk",
+    "url": "https://music.apple.com/de/album/homogenic/1726654447?l=en-GB",
+    "position": "45",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d9/29/4c/d9294c59-d35d-1b4f-c904-ff54f5a55b48/5016958995089.png/1200x1200bb.jpg"
+  },
+  {
+    "title": "Exodus ",
+    "artist": "Bob Marley & The Wailers",
+    "url": "https://music.apple.com/de/album/exodus-2013-remaster/1625213430?l=en-GB",
+    "position": "46",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/23/fa/f8/23faf820-c4fa-2bf1-d672-846971f5cf5c/06UMGIM31355.rgb.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "Take Care",
+    "artist": "Drake",
+    "url": "https://music.apple.com/de/album/take-care-deluxe-version/1440642493?l=en-GB",
+    "position": "47",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/fb/d3/74fbd365-bd52-23b4-604b-7f164407b0a9/00602527899107.rgb.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "Paul’s Boutique ",
+    "artist": "Beastie Boys",
+    "url": "https://music.apple.com/de/album/pauls-boutique-20th-anniversary-remastered-edition/721276795?l=en-GB",
+    "position": "48",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/bf/b9/82/bfb9825b-e130-0664-2f2f-3a766a1161c6/05099969330056.rgb.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "The Joshua Tree",
+    "artist": "U2",
+    "url": "https://music.apple.com/de/album/the-joshua-tree/1443155637?l=en-GB",
+    "position": "49",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/8f/e2/c3/8fe2c384-f6cb-9af7-371d-2b6a9b204e59/17UMGIM79292.rgb.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "Hounds of Love ",
+    "artist": "Kate Bush",
+    "url": "https://music.apple.com/de/album/hounds-of-love-2018-remaster/1675560565?l=en-GB",
+    "position": "50",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/62/97/32/62973286-5bb3-0de7-c051-8b2de8d95472/cover.jpg/1200x1200bb.jpg"
+  },
+  {
     "title": "Sign O’ the Times ",
     "artist": "Prince",
     "url": "https://music.apple.com/de/album/sign-o-the-times/212852926?l=en-GB",
