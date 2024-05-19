@@ -1,5 +1,75 @@
 [
   {
+    "title": "Jagged Little Pill",
+    "artist": "Alanis Morissette",
+    "url": "https://music.apple.com/de/album/jagged-little-pill-2015-remaster/1715762264?l=en-GB",
+    "position": "31",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/7c/93/e87c93d6-6da7-6ac2-33f0-fe38c92c8fbf/603497826834.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "Ready to Die ",
+    "artist": "The Notorious B.I.G.",
+    "url": "https://music.apple.com/de/album/ready-to-die-the-remaster/204669326?l=en-GB",
+    "position": "32",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/bb/ac/73/bbac7336-a1b4-9111-31cd-0daeb278fcc8/dj.hjzzaivb.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "Kid A ",
+    "artist": "Radiohead",
+    "url": "https://music.apple.com/de/album/kid-a/1097862870?l=en-GB",
+    "position": "33",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/8e/13/bd8e1358-b367-a689-cb84-cebd0b067dc4/634904078263.png/1200x1200bb.jpg"
+  },
+  {
+    "title": "It Takes a Nation of Millions to Hold Us Back",
+    "artist": "Public Enemy",
+    "url": "https://music.apple.com/de/album/it-takes-a-nation-of-millions-to-hold-us-back/1440837788?l=en-GB",
+    "position": "34",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/80/be/7c/80be7c4f-f2e8-a40e-f9ab-86a8c4ef1535/00602547742315.rgb.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "London Calling",
+    "artist": "The Clash",
+    "url": "https://music.apple.com/de/album/london-calling/684811762?l=en-GB",
+    "position": "35",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/45/d7/17/45d71740-b204-de23-3f9e-f2f823296f1d/886443520721.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "BEYONCÉ",
+    "artist": "Beyoncé",
+    "url": "https://music.apple.com/de/album/beyonc%C3%A9-platinum-edition/939775882?l=en-GB",
+    "position": "36",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/cb/d0/1b/cbd01b16-7759-38ec-15a2-8a98228319ff/886444935265.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "Enter the Wu-Tang (36 Chambers)",
+    "artist": "Wu-Tang Clan",
+    "url": "https://music.apple.com/de/album/enter-the-wu-tang-36-chambers-expanded-edition/269842381?l=en-GB",
+    "position": "37",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/54/d3/cd/54d3cd0a-109f-930b-8fee-0acf35e81754/dj.brdcktik.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "Tapestry",
+    "artist": "Carole King",
+    "url": "https://music.apple.com/de/album/tapestry/747087657?l=en-GB",
+    "position": "38",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/68/b6/0e/68b60e89-9d41-e8a1-bba2-05c750f0832b/dj.hwpyamqm.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "Illmatic ",
+    "artist": "Nas",
+    "url": "https://music.apple.com/de/album/illmatic/662324135?l=en-GB",
+    "position": "39",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e8/13/50/e813500d-51cd-6c37-c405-53a668cbde97/886444072496.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "I Never Loved a Man the Way I Love You ",
+    "artist": "Aretha Franklin",
+    "url": "https://music.apple.com/de/album/i-never-loved-a-man-the-way-i-love-you/937107826?l=en-GB",
+    "position": "40",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/31/ee/d131eec4-614c-d661-b580-3dc32b8547e8/603497896622.jpg/1200x1200bb.jpg"
+  },
+  {
     "title": "Aquemini ",
     "artist": "Outkast",
     "url": "https://music.apple.com/de/album/aquemini/266365274?l=en-GB",
