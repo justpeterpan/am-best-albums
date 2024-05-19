@@ -5,6 +5,13 @@ useHead({
     class:
       'bg-amber-50 h-screen m-4 pb-4 flex flex-row justify-center text-neutral-600',
   },
+  title: 'AM 100 Best Albums',
+  meta: [{ charset: 'utf-8' }],
+  htmlAttrs: { lang: 'en' },
+  link: [
+    { rel: 'icon', type: 'image/png', href: '/favicon.png' },
+    { rel: 'apple-touch-icon', type: 'image/png', href: '/favicon.png' },
+  ],
 })
 </script>
 
