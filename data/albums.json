@@ -1,5 +1,75 @@
 [
   {
+    "title": "Rumours ",
+    "artist": "Fleetwood Mac",
+    "url": "https://music.apple.com/de/album/rumours/594061854?l=en-GB",
+    "position": "11",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/13/ba/4d13bac3-d3d5-7581-2c74-034219eadf2b/081227970949.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "OK Computer ",
+    "artist": "Radiohead",
+    "url": "https://music.apple.com/de/album/ok-computer/1097861387?l=en-GB",
+    "position": "12",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/ba/0760ba0f-148c-b18f-d0ff-169ee96f3af5/634904078164.png/1200x1200bb.jpg"
+  },
+  {
+    "title": "The Blueprint ",
+    "artist": "JAY-Z",
+    "url": "https://music.apple.com/de/album/the-blueprint/1440757381?l=en-GB",
+    "position": "13",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/8f/a6/d4/8fa6d4ea-3953-f208-dd35-0d14b9fb0e03/07UMGIM02256.rgb.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "Highway 61 Revisited ",
+    "artist": "Bob Dylan",
+    "url": "https://music.apple.com/de/album/highway-61-revisited/201281514?l=en-GB",
+    "position": "14",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f8/ff/c0/f8ffc056-55b4-2033-657d-32492d1eea25/827969239926.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "21 ",
+    "artist": "Adele",
+    "url": "https://music.apple.com/de/album/21/403037872?l=en-GB",
+    "position": "15",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ba/53/61/ba536163-de06-6640-32d2-70d28ff1ae12/634904152062.png/1200x1200bb.jpg"
+  },
+  {
+    "title": "Blue ",
+    "artist": "Joni Mitchell",
+    "url": "https://music.apple.com/de/album/blue/1492263092?l=en-GB",
+    "position": "16",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/00/a2/43/00a24363-cf69-bfd2-a26a-a042d57ab141/075992719926.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "What’s Going On ",
+    "artist": "Marvin Gaye",
+    "url": "https://music.apple.com/de/album/whats-going-on/1538081586?l=en-GB",
+    "position": "17",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/76/36/2d/76362d74-cb7a-8ef9-104e-cde1d858e9a9/20UMGIM95279.rgb.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "1989 (Taylor’s Version) ",
+    "artist": "Taylor Swift",
+    "url": "https://music.apple.com/de/album/1989-taylors-version-deluxe/1713845538?l=en-GB",
+    "position": "18",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/35/6c/8e356cc2-0be4-b83b-d29e-b578623df2ac/23UM1IM34052.rgb.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "The Chronic",
+    "artist": "Dr. Dre",
+    "url": "https://music.apple.com/de/album/the-chronic/1668460963?l=en-GB",
+    "position": "19",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/22/55/6c/22556ce7-92fb-3a7a-af98-33b0e4bed0d8/23UMGIM07603.rgb.jpg/1200x1200bb.jpg"
+  },
+  {
+    "title": "Pet Sounds ",
+    "artist": "The Beach Boys",
+    "url": "https://music.apple.com/de/album/pet-sounds/1440841241?l=en-GB",
+    "position": "20",
+    "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/35/bb/c4/35bbc4eb-9387-97b0-b138-64b7a949ea43/13UABIM03512.rgb.jpg/1200x1200bb.jpg"
+  },
+  {
     "title": "Revolver ",
     "artist": "The Beatles",
     "url": "https://music.apple.com/de/album/revolver-2022-mix/1642995371?l=en-GB",
